@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "galapagos", "galapagos\galapagos.vcxproj", "{A7BFE823-7CB2-4D89-9405-C8E2409B02CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7BFE823-7CB2-4D89-9405-C8E2409B02CB}.Debug|x64.ActiveCfg = Debug|x64
+		{A7BFE823-7CB2-4D89-9405-C8E2409B02CB}.Debug|x64.Build.0 = Debug|x64
+		{A7BFE823-7CB2-4D89-9405-C8E2409B02CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7BFE823-7CB2-4D89-9405-C8E2409B02CB}.Debug|x86.Build.0 = Debug|Win32
+		{A7BFE823-7CB2-4D89-9405-C8E2409B02CB}.Release|x64.ActiveCfg = Release|x64
+		{A7BFE823-7CB2-4D89-9405-C8E2409B02CB}.Release|x64.Build.0 = Release|x64
+		{A7BFE823-7CB2-4D89-9405-C8E2409B02CB}.Release|x86.ActiveCfg = Release|Win32
+		{A7BFE823-7CB2-4D89-9405-C8E2409B02CB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28B699AF-3B8B-4829-9E2F-81F5CD3E5C9F}
+	EndGlobalSection
+EndGlobal
